@@ -1,0 +1,2 @@
+# delta-demo
+This is demo git created during learning of delta by apna clg
